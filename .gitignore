@@ -1,0 +1,13 @@
+# Local configuration - contains credentials, never commit it
+config.psd1
+
+# Logs
+*.log
+logs/
+
+# OS / editor cruft
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
